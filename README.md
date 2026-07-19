@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/amitjethva2707-me/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
