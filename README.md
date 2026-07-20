@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amitjethva2707-me/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
