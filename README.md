@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjethva2707-me/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/amitjethva2707-me/dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/1143-longest-common-subsequence) |
