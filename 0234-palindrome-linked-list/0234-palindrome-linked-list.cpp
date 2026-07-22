@@ -28,11 +28,11 @@ public:
         }
         ListNode* slow = head;
         ListNode* fast = head;
-        while(fast!= NULL && fast->next != NULL && fast->next->next !=NULL){
+        while(fast != NULL && fast->next != NULL ){
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* second = reverse(slow->next);
+        ListNode* second = reverse(slow);
 
         slow = head;
         while(second != NULL){
