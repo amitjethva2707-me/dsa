@@ -14,29 +14,24 @@ public:
         if(head == NULL){
             return NULL;
         }
-       int len = 0;
-    
-       ListNode* temp = head;
-       while(temp != NULL){
-        len++;
-        temp = temp->next;
-       }
-
-       if(len == n){
-        ListNode* del = head;
-        head = head->next;
-        delete del;
-        return head;
-
-       }
-       temp = head;
-        for(int i =1 ;i<len-n;i++){
-           temp =temp->next;
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        ListNode* slow = dummy;
+        ListNode* fast = dummy;
+        for(int i =0;i<=n;i++){
+            fast = fast->next;
         }
-        ListNode* del = temp->next;
-        temp->next = del->next;
+        while(fast != NULL){
+            slow = slow->next;
+            fast = fast->next;
+        }
+        ListNode* del = slow->next;
+        slow->next = del->next;
         delete del;
+        head = dummy->next;
+        delete dummy;
         return head;
+
 
     }
 };
