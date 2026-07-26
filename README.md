@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
+| [1929-concatenation-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitjethva2707-me/dsa/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
