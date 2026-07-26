@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjethva2707-me/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amitjethva2707-me/dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amitjethva2707-me/dsa/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amitjethva2707-me/dsa/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amitjethva2707-me/dsa/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/amitjethva2707-me/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
