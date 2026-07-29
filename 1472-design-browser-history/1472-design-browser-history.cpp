@@ -17,7 +17,7 @@ Node* curr;
     }
     
     void visit(string url) {
-        curr->next = NULL;
+        
         Node* node = new Node(url);
         curr->next = node;
         node->prev = curr;
