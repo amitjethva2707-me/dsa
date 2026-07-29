@@ -32,8 +32,8 @@ public:
         for(int i =0;i<len-k-1;i++){
             newtail = newtail->next;
         }
-        ListNode* newhead = newtail->next;
+        head = newtail->next;
         newtail->next = NULL;
-        return newhead;
+        return head;
     }
 };
