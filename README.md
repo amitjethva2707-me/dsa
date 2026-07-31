@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitjethva2707-me/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
+| [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitjethva2707-me/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
+| [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amitjethva2707-me/dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
+| [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/amitjethva2707-me/dsa/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
+| [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/amitjethva2707-me/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
