@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1472-design-browser-history](https://github.com/amitjethva2707-me/dsa/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/amitjethva2707-me/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjethva2707-me/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/amitjethva2707-me/dsa/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/amitjethva2707-me/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjethva2707-me/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amitjethva2707-me/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amitjethva2707-me/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
@@ -141,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [3536-maximum-product-of-two-digits](https://github.com/amitjethva2707-me/dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
