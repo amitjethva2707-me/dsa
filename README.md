@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjethva2707-me/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitjethva2707-me/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amitjethva2707-me/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitjethva2707-me/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amitjethva2707-me/dsa/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/amitjethva2707-me/dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/amitjethva2707-me/dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0132-palindrome-partitioning-ii) |
@@ -270,10 +273,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
