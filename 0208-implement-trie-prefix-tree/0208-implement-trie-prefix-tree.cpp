@@ -1,11 +1,11 @@
 struct Node{
     Node* links[26];
     bool flag = false;
-      Node() {
-        for(int i = 0; i < 26; i++) {
-            links[i] = nullptr;
-        }
-    }
+    //   Node() {
+    //     for(int i = 0; i < 26; i++) {
+    //         links[i] = nullptr;
+    //     }
+    // }
     bool containkey(char ch){
         return (links[ch-'a'] != NULL);
     }
