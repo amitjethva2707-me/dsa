@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjethva2707-me/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/amitjethva2707-me/dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitjethva2707-me/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/amitjethva2707-me/dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/amitjethva2707-me/dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/amitjethva2707-me/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
 ## Number Theory
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitjethva2707-me/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/amitjethva2707-me/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitjethva2707-me/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitjethva2707-me/dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -298,4 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
