@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitjethva2707-me/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amitjethva2707-me/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/amitjethva2707-me/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitjethva2707-me/dsa/tree/master/0141-linked-list-cycle) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
 ## Hamiltonian Path
 |  |
@@ -311,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
