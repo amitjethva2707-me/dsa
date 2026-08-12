@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/amitjethva2707-me/dsa/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/amitjethva2707-me/dsa/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -245,11 +246,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/amitjethva2707-me/dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/amitjethva2707-me/dsa/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
