@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amitjethva2707-me/dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/amitjethva2707-me/dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/amitjethva2707-me/dsa/tree/master/0282-expression-add-operators) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
