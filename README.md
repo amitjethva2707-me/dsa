@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/amitjethva2707-me/dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/amitjethva2707-me/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
