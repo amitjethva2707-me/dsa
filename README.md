@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjethva2707-me/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/amitjethva2707-me/dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/amitjethva2707-me/dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
