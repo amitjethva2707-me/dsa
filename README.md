@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/amitjethva2707-me/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjethva2707-me/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/amitjethva2707-me/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/amitjethva2707-me/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/amitjethva2707-me/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amitjethva2707-me/dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
