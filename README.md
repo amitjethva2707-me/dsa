@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/amitjethva2707-me/dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/amitjethva2707-me/dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amitjethva2707-me/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amitjethva2707-me/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amitjethva2707-me/dsa/tree/master/0232-implement-queue-using-stacks) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/amitjethva2707-me/dsa/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/amitjethva2707-me/dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amitjethva2707-me/dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/amitjethva2707-me/dsa/tree/master/0282-expression-add-operators) |
