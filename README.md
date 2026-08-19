@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/amitjethva2707-me/dsa/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1929-concatenation-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amitjethva2707-me/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amitjethva2707-me/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/amitjethva2707-me/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
