@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/amitjethva2707-me/dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amitjethva2707-me/dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amitjethva2707-me/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitjethva2707-me/dsa/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amitjethva2707-me/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Breadth-First Search
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitjethva2707-me/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
