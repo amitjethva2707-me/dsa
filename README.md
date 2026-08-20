@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/amitjethva2707-me/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amitjethva2707-me/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amitjethva2707-me/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/amitjethva2707-me/dsa/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
