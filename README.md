@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/amitjethva2707-me/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjethva2707-me/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amitjethva2707-me/dsa/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amitjethva2707-me/dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amitjethva2707-me/dsa/tree/master/0155-min-stack) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjethva2707-me/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitjethva2707-me/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/amitjethva2707-me/dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amitjethva2707-me/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
