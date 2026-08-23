@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/amitjethva2707-me/dsa/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/amitjethva2707-me/dsa/tree/master/0796-rotate-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amitjethva2707-me/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amitjethva2707-me/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/amitjethva2707-me/dsa/tree/master/0735-asteroid-collision) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/amitjethva2707-me/dsa/tree/master/0907-sum-of-subarray-minimums) |
