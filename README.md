@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/amitjethva2707-me/dsa/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/amitjethva2707-me/dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/amitjethva2707-me/dsa/tree/master/1043-partition-array-for-maximum-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/amitjethva2707-me/dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amitjethva2707-me/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amitjethva2707-me/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/amitjethva2707-me/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
@@ -472,5 +475,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
