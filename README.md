@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amitjethva2707-me/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/amitjethva2707-me/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amitjethva2707-me/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/amitjethva2707-me/dsa/tree/master/2643-row-with-maximum-ones) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitjethva2707-me/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2643-row-with-maximum-ones](https://github.com/amitjethva2707-me/dsa/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
 | ------- |
