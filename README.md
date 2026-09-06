@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/amitjethva2707-me/dsa/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amitjethva2707-me/dsa/tree/master/0239-sliding-window-maximum) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitjethva2707-me/dsa/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amitjethva2707-me/dsa/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitjethva2707-me/dsa/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -498,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amitjethva2707-me/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amitjethva2707-me/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
