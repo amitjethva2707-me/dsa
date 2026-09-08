@@ -5,34 +5,19 @@ public:
         for(char ch : tasks){
             freq[ch-'A']++;
         }
-        priority_queue<int> pq;
+        int maxfreq = 0;
+      
         for(int f : freq){
-            if(f>0){
-                pq.push(f);
+            maxfreq = max(maxfreq,f);
+        }
+        int cntmax = 0;
+        for(int f : freq){
+            if(f == maxfreq){
+                cntmax++;
             }
         }
-        int time = 0;
-        while(!pq.empty()){
-            vector<int> temp;
-            for(int i =0;i<=n;i++){
-                if(!pq.empty()){
-                    int f = pq.top();
-                    pq.pop();
-                    f--;
-                    if(f>0){
-                        temp.push_back(f);
-                    }
-                }
-                time++;
-                if(pq.empty() && temp.empty()){
-                    break;
-                }
-
-            }
-            for(int f : temp){
-                pq.push(f);
-            }
-        }
-        return time;
+    
+         int result = (maxfreq-1)*(n+1)+cntmax;
+         return max((int)tasks.size(),result);
     }
 };
