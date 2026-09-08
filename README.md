@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/amitjethva2707-me/dsa/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/amitjethva2707-me/dsa/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/amitjethva2707-me/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/amitjethva2707-me/dsa/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/amitjethva2707-me/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/amitjethva2707-me/dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/amitjethva2707-me/dsa/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/amitjethva2707-me/dsa/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/amitjethva2707-me/dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/amitjethva2707-me/dsa/tree/master/3536-maximum-product-of-two-digits) |
