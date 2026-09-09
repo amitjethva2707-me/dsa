@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amitjethva2707-me/dsa/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/amitjethva2707-me/dsa/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/amitjethva2707-me/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/amitjethva2707-me/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amitjethva2707-me/dsa/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/amitjethva2707-me/dsa/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/amitjethva2707-me/dsa/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/amitjethva2707-me/dsa/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/amitjethva2707-me/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/amitjethva2707-me/dsa/tree/master/1472-design-browser-history) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/amitjethva2707-me/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amitjethva2707-me/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/amitjethva2707-me/dsa/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/amitjethva2707-me/dsa/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/amitjethva2707-me/dsa/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/amitjethva2707-me/dsa/tree/master/1472-design-browser-history) |
