@@ -8,15 +8,15 @@ public:
     }
 
     void postTweet(int userId, int tweetId) {
-        posts.push_back({tweetId, userId});
+        posts.push_back({userId,tweetId});
     }
 
     vector<int> getNewsFeed(int userId) {
         vector<int> ans;
         int n = 0;
         for(int i = posts.size()-1;i>=0 && n<10 ;i--){
-            if(posts[i].second == userId || friends[userId].count(posts[i].second)){
-                ans.push_back(posts[i].first);
+            if(posts[i].first == userId || friends[userId].count(posts[i].first)){
+                ans.push_back(posts[i].second);
                 n++;
             }
         }
