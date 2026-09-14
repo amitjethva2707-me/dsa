@@ -1,52 +1,31 @@
 class Solution {
 public:
     bool checkValidString(string s) {
+        int low = 0;
+        int high = 0;
 
-        int open = 0;
-        int star = 0;
+        for (char c : s) {
 
-        // Left to right
-        for (char ch : s) {
+            if (c == '(') {
+                low++;
+                high++;
+            }
+            else if (c == ')') {
+                low--;
+                high--;
+            }
+            else { // '*'
+                low--;   // * acts as ')'
+                high++;  // * acts as '('
+            }
 
-            if (ch == '(') {
-                open++;
-            }
-            else if (ch == '*') {
-                star++;
-            }
-            else {
-                if (open > 0)
-                    open--;
-                else if (star > 0)
-                    star--;
-                else
-                    return false;
-            }
+            if (high < 0)
+                return false;
+
+            if (low < 0)
+                low = 0;
         }
 
-        // Remaining '(' must be matched by '*' AFTER them
-        open = 0;
-        star = 0;
-
-        // Right to left
-        for (int i = s.size() - 1; i >= 0; i--) {
-
-            if (s[i] == ')') {
-                open++;
-            }
-            else if (s[i] == '*') {
-                star++;
-            }
-            else {
-                if (open > 0)
-                    open--;
-                else if (star > 0)
-                    star--;
-                else
-                    return false;
-            }
-        }
-
-        return true;
+        return low == 0;
     }
 };
