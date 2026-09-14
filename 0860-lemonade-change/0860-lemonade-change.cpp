@@ -13,7 +13,7 @@ public:
                 } else {
                     return false;
                 }
-            } else if(x == 20){
+            } else {
                 if(five>0 && ten>0){
                     five--;
                     ten--;
