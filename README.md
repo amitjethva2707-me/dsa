@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/amitjethva2707-me/dsa/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/amitjethva2707-me/dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/amitjethva2707-me/dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitjethva2707-me/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amitjethva2707-me/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/amitjethva2707-me/dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/amitjethva2707-me/dsa/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/amitjethva2707-me/dsa/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amitjethva2707-me/dsa/tree/master/0115-distinct-subsequences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/amitjethva2707-me/dsa/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/amitjethva2707-me/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
