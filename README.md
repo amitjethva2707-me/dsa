@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/amitjethva2707-me/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/amitjethva2707-me/dsa/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/amitjethva2707-me/dsa/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amitjethva2707-me/dsa/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/amitjethva2707-me/dsa/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
