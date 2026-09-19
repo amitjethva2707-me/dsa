@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amitjethva2707-me/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amitjethva2707-me/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/amitjethva2707-me/dsa/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/amitjethva2707-me/dsa/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/amitjethva2707-me/dsa/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/amitjethva2707-me/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amitjethva2707-me/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amitjethva2707-me/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/amitjethva2707-me/dsa/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/amitjethva2707-me/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
