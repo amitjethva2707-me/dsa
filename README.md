@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amitjethva2707-me/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -608,10 +610,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amitjethva2707-me/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/amitjethva2707-me/dsa/tree/master/0455-assign-cookies) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
