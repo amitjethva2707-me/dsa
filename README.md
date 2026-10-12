@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amitjethva2707-me/dsa/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0039-combination-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amitjethva2707-me/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/amitjethva2707-me/dsa/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amitjethva2707-me/dsa/tree/master/0013-roman-to-integer) |
