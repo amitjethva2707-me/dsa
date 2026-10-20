@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amitjethva2707-me/dsa/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitjethva2707-me/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/amitjethva2707-me/dsa/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amitjethva2707-me/dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitjethva2707-me/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0216-combination-sum-iii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/amitjethva2707-me/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/amitjethva2707-me/dsa/tree/master/0547-number-of-provinces) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amitjethva2707-me/dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2643-row-with-maximum-ones](https://github.com/amitjethva2707-me/dsa/tree/master/2643-row-with-maximum-ones) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amitjethva2707-me/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amitjethva2707-me/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitjethva2707-me/dsa/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amitjethva2707-me/dsa/tree/master/0547-number-of-provinces) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
