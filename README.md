@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amitjethva2707-me/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amitjethva2707-me/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/amitjethva2707-me/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amitjethva2707-me/dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 ## Linked List
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
+| [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2643-row-with-maximum-ones](https://github.com/amitjethva2707-me/dsa/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 ## Algorithm X
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/amitjethva2707-me/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amitjethva2707-me/dsa/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
