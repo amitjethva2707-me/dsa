@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amitjethva2707-me/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amitjethva2707-me/dsa/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/amitjethva2707-me/dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/amitjethva2707-me/dsa/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjethva2707-me/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/amitjethva2707-me/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/amitjethva2707-me/dsa/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amitjethva2707-me/dsa/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amitjethva2707-me/dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/amitjethva2707-me/dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/amitjethva2707-me/dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amitjethva2707-me/dsa/tree/master/0994-rotting-oranges) |
