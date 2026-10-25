@@ -1,34 +1,47 @@
 class Solution {
 public:
-    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-     int n = graph.size();
-     vector<vector<int>> adj(n);
-     vector<int> outdegree(n,0);
-     queue<int> q;
-     vector<int> ans;
-     for(int i = 0;i<n;i++){
-        outdegree[i] = graph[i].size();
-        for(int v : graph[i]){
-           adj[v].push_back(i);
-        }
-     }
-     for(int i =0;i<n;i++){
-        if(outdegree[i] == 0){
-            q.push(i);
-        }
-     }
-     while(!q.empty()){
-        int node = q.front();
-        q.pop();
-        ans.push_back(node);
-        for(int prev : adj[node]){
-            outdegree[prev]--;
-            if(outdegree[prev] == 0){
-                q.push(prev);
+    bool dfs(int node, vector<vector<int>>& graph,
+             vector<int>& vis, vector<int>& path,
+             vector<int>& safe) {
+
+        vis[node] = 1;
+        path[node] = 1;
+
+        for (int v : graph[node]) {
+            if (!vis[v]) {
+                if (!dfs(v, graph, vis, path, safe))
+                    return false;
+            }
+            else if (path[v]) {
+                return false;
             }
         }
-     }
-     sort(ans.begin(),ans.end());
-     return ans;
+
+        path[node] = 0;
+        safe[node] = 1;
+        return true;
+    }
+
+    vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n = graph.size();
+
+        vector<int> vis(n, 0);
+        vector<int> path(n, 0);
+        vector<int> safe(n, 0);
+        vector<int> ans;
+
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                dfs(i, graph, vis, path, safe);
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (safe[i]) {
+                ans.push_back(i);
+            }
+        }
+
+        return ans;
     }
 };
