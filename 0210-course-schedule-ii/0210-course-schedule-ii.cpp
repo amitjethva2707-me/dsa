@@ -1,38 +1,44 @@
 class Solution {
 public:
-    bool dfs(int curr, vector<bool>& vis, vector<bool>& recpath,
-             vector<vector<int>>& adj, vector<int>& ans) {
-        vis[curr] = true;
-        recpath[curr] = true;
-        for (int v : adj[curr]) {
-            if (!vis[v]) {
-                if (dfs(v, vis, recpath, adj,ans)) {
-                    return true;
-                }
-            } else if (recpath[v]) {
-                return true;
-            }
-        }
-        recpath[curr] = false;
-        ans.push_back(curr);
-        return false;
-    }
-
     vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-          vector<vector<int>> adj(n);
-          vector<int> ans;
-        for(auto &egde:prerequisites){
-            adj[egde[0]].push_back(egde[1]);
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n, 0);
+        vector<int> ans;
+        queue<int> q;
+
+        for (auto& edge : prerequisites) {
+            int course = edge[0];
+            int prereq = edge[1];
+
+            adj[prereq].push_back(course);
+            indegree[course]++;
         }
-        vector<bool> vis(n,false);
-        vector<bool> recpath(n,false);
-        for(int i =0;i<n;i++){
-            if(!vis[i]){
-                if(dfs(i,vis,recpath,adj,ans)){
-                    return {};
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
+
+        while (!q.empty()) {
+            int curr = q.front();
+            q.pop();
+
+            ans.push_back(curr);
+
+            for (int v : adj[curr]) {
+                indegree[v]--;
+
+                if (indegree[v] == 0) {
+                    q.push(v);
                 }
             }
         }
-        return  ans;
+
+        if (ans.size() != n) {
+            return {};
+        }
+
+        return ans;
     }
 };
