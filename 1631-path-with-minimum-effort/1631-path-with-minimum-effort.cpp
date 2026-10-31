@@ -30,9 +30,9 @@ public:
 
             pq.pop();
 
-            if (effort > dist[row][col]) {
-                continue;
-            }
+            // if (effort > dist[row][col]) {
+            //     continue;
+            // }
 
             if (row == n - 1 && col == m - 1) {
                 return effort;
