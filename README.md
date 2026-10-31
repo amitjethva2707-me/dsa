@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/amitjethva2707-me/dsa/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/amitjethva2707-me/dsa/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amitjethva2707-me/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amitjethva2707-me/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/amitjethva2707-me/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amitjethva2707-me/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/amitjethva2707-me/dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2643-row-with-maximum-ones](https://github.com/amitjethva2707-me/dsa/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
