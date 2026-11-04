@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amitjethva2707-me/dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/amitjethva2707-me/dsa/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/amitjethva2707-me/dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/amitjethva2707-me/dsa/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/amitjethva2707-me/dsa/tree/master/0904-fruit-into-baskets) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/amitjethva2707-me/dsa/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amitjethva2707-me/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/amitjethva2707-me/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amitjethva2707-me/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/amitjethva2707-me/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/amitjethva2707-me/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/amitjethva2707-me/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amitjethva2707-me/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/amitjethva2707-me/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/amitjethva2707-me/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/amitjethva2707-me/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/amitjethva2707-me/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/amitjethva2707-me/dsa/tree/master/1631-path-with-minimum-effort) |
 ## Binary Indexed Tree
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/amitjethva2707-me/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/amitjethva2707-me/dsa/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/amitjethva2707-me/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amitjethva2707-me/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/amitjethva2707-me/dsa/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/amitjethva2707-me/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/amitjethva2707-me/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/amitjethva2707-me/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/amitjethva2707-me/dsa/tree/master/0802-find-eventual-safe-states) |
@@ -649,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/amitjethva2707-me/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amitjethva2707-me/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amitjethva2707-me/dsa/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/amitjethva2707-me/dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/amitjethva2707-me/dsa/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/amitjethva2707-me/dsa/tree/master/1631-path-with-minimum-effort) |
@@ -851,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/amitjethva2707-me/dsa/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amitjethva2707-me/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/amitjethva2707-me/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amitjethva2707-me/dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -869,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amitjethva2707-me/dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/amitjethva2707-me/dsa/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
