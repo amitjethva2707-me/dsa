@@ -1,47 +1,44 @@
+
 class Solution {
-public:
-vector<int> parent,size;
+    void dfs(int node, vector<vector<int>>& adj,
+             vector<int>& vis) {
 
-  int findUPar(int node) {
-        if (node == parent[node]) {
-            return node;
-        }
+        vis[node] = 1;
 
-        return parent[node] = findUPar(parent[node]);
-    }
-       void unionBySize(int u, int v) {
-        int ulp_u = findUPar(u);
-        int ulp_v = findUPar(v);
-
-        if (ulp_u == ulp_v) return;
-
-        if (size[ulp_u] < size[ulp_v]) {
-            parent[ulp_u] = ulp_v;
-            size[ulp_v] += size[ulp_u];
-        }
-        else {
-            parent[ulp_v] = ulp_u;
-            size[ulp_u] += size[ulp_v];
-        }
-    }
-    int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size()<n-1){
-            return -1;
-        }
-        parent.resize(n);
-        size.resize(n,1);
-        for(int i =0;i<n;i++){
-            parent[i] = i;
-        }
-        for(auto &edge : connections){
-            unionBySize(edge[0],edge[1]);
-        }
-        int ans = 0;
-        for(int i =0;i<n;i++){
-            if(parent[i] == i){
-                ans++;
+        for (auto it : adj[node]) {
+            if (!vis[it]) {
+                dfs(it, adj, vis);
             }
         }
-        return ans-1;
+    }
+
+public:
+    int makeConnected(int n, vector<vector<int>>& connections) {
+
+        if (connections.size() < n - 1)
+            return -1;
+
+        vector<vector<int>> adj(n);
+
+        for (auto &edge : connections) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+
+        vector<int> vis(n, 0);
+        int components = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            if (!vis[i]) {
+                components++;
+                dfs(i, adj, vis);
+            }
+        }
+
+        return components - 1;
     }
 };
